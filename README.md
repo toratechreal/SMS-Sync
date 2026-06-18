@@ -40,12 +40,12 @@ SMS-Sync/
 ## Setup
 
 ### 1. Supabase
-1. Create a free project at [supabase.com](https://supabase.com).
+1. Create a project at [supabase.com](https://supabase.com).
 2. Open the **SQL Editor** and run [`supabase/schema.sql`](supabase/schema.sql) (creates the tables + realtime).
 3. In **Settings → API**, copy your **Project URL** and **anon (publishable) key** — you'll need them to pair.
 
 ### 2. Install the Android app
-Download the latest APK from [**Releases**](https://github.com/toratechreal/SMS-Sync/releases) and install it (enable "install from unknown sources" if prompted).
+Download the latest APK from [**Releases**](https://github.com/toratechreal/SMS-Sync/releases) and install it.
 
 > Or build from source: `./gradlew :app:assembleDebug`
 
