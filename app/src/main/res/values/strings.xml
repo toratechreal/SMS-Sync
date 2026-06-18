@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SMS Sync</string>
+
+    <!-- Foreground service -->
+    <string name="host_channel_name">SMS Sync host</string>
+    <string name="host_running_title">SMS Sync is running</string>
+    <string name="host_running_text">Syncing messages and listening for replies.</string>
+</resources>
